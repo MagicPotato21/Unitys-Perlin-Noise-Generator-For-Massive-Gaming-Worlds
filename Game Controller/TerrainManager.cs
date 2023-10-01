@@ -1,5 +1,5 @@
+// Made By Chris Hodges
 using UnityEngine;
-
 public class TerrainManager : MonoBehaviour
 {
     public Terrain terrainPrefab; // The prefab for the terrain
